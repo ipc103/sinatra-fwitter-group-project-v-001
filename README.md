@@ -1,6 +1,6 @@
 # Fwitter Group Project
 
-## Objectives
+## Updates...
 
 1. Build a full scale Sinatra application that uses:
 
